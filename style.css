@@ -1,0 +1,35 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+
+#time {
+    font-size: 100px;
+    margin-bottom: 20px;
+    color: orange;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: orange;
+}
+
+.lap-times {
+    margin-top: 20px;
+    text-align: left;
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.lap-times div {
+    background: #c0e908;
+    padding: 5px 10px;
+    border-bottom: 1px solid #ddd;
+}
